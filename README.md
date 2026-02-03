@@ -20,7 +20,6 @@ TapInvest is not just an app; it is a **multi asset investing** ecosystem driven
 ---
 
 ## 💡 Frequently Asked Questions (FAQ)
-*Google Search Optimized for "People Also Ask"*
 
 ### What makes TapInvest the best AI investing platform?
 TapInvest combines **AI investing insights** with **multi asset investing**. Unlike traditional brokers, we offer **customized portfolios** that adapt in real-time. Our **AI powered portfolio analysis** helps users optimize diversification across stocks, crypto, and **real world assets (RWA)** instantly.
