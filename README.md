@@ -1,4 +1,4 @@
-# TapInvest: The AI Investing Platform for Multi-Asset Portfolios 🚀
+# TAP Invest: The AI Investing Platform for Multi-Asset Portfolios 🚀
 
 Welcome to the official GitHub profile of **TapInvest**. We are revolutionizing the financial landscape by building the world's first **all in one investing app** that unifies **stocks and crypto trading**, **tokenized assets**, and **predictive markets** into a single, seamless experience.
 
